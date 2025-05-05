@@ -1,10 +1,10 @@
-Banco de Dados NoSQL (TSIN34D)
-
-# Video 
+# Banco de Dados NoSQL (TSIN34D)
+## Atividade de Aula – 2
+## Video 
 
 https://github.com/user-attachments/assets/d407467b-ddbc-46ab-b21b-c85550937c92
 
-# Atividade de Aula – 2
+
 Desenvolva uma aplicação Web capaz de gerenciar o cadastro de autores e seus
 documentos. A aplicação deve permitir o cadastro de autores, como apresentado pela
 Figura 1. A partir do cadastro de autores, a aplicação deve permitir o cadastro de
